@@ -1,0 +1,35 @@
+Dashboard Design Documentation
+
+Project Overview 
+
+AttributeDetailsDateTeam IDProject NameHeart Disease Risk and Patient Health AnalysisMaximum Marks5 Marks
+Core Design Principles
+Creating an effective dashboard involves thoughtful design to ensure that the presented information is clear, relevant, and easily understandable for the intended audience.
+
+Activity 1: Interactive and Visually Appealing Dashboards
+To design dashboards that are both visually engaging and highly functional for users, prioritize the following elements:
+* Clear and Intuitive Layout: Structure your components logically so users can navigate the data effortlessly.
+* Appropriate Visualizations: Select the right chart types (e.g., bar charts, pie charts, KPIs) that best represent your specific data points.
+* Colour and Theming: Use a cohesive, high-contrast color palette (such as a dark mode theme) to emphasize key data points without causing visual fatigue.
+* Interactive Filters and Slicers: Include easy-to-use filtering panels (e.g., by service provider or year) to allow users to customize their view.
+* Drill-Down Capabilities: Enable users to click into high-level metrics to see deeper, granular details.
+* Responsive Design: Ensure the dashboard layouts adapt smoothly across various screen sizes and devices.
+* Custom Visuals and Icons: Embed targeted graphics, brand logos, or relevant images to make the interface more engaging.
+* Use of Infographics: Combine data visualizations with text and minimal illustrations to tell a compelling data story.
+* 
+
+
+Dashboard Visualization & Key Outcomes
+1. Executive Key Performance Indicators (KPIs)
+* Total Distance Traveled: The platform tracked a cumulative operational distance of 4.57K kilometers.
+* Revenue Generation: Total financial performance reached 9.94 Million INR.
+* Passenger Volume: The services successfully accommodated a total of 423 passengers.
+2. Visual Analytics & Trends
+* Yearly Passenger Trends (Horizontal Bar Chart): Compares total passenger volume across historical booking years.
+o Peak Performance: The year 2021 recorded the highest engagement with 104 passengers.
+o Recent Performance: The year 2022 experienced a downward shift, closing at 47 passengers.
+* Daily Passenger Distribution (Pie Chart): Illustrates the breakdown of passenger traffic by specific booking days to help identify peak operational windows and optimize resource allocation.
+* Interactive Control Filters (Left Sidebar Panels):
+o Service Name Slicer: Allows dynamic switching between major vendors including GOIBIBO, MMT, and YATRA.
+o Booking Year Slicer: Features multi-select timeline filters tracking data from 2018 through 2022.
+
